@@ -1,16 +1,27 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeongHyeon%20👇&animation=twinkling&Git&fontSize=70)
 
-<!--
-**zkti123/zkti123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzkti123&count_bg=%2318B284&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkti123&show_icons=true&theme=shades-of-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪 Skills
+
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mariadb-000000?style=for-the-badge&logo=mariadb&logoColor=white">
+    <br>
+   <img src="https://img.shields.io/badge/JPA-003396?style=flat&logo=Java&logoColor=white">
+   <img src="https://img.shields.io/badge/MyBatis-F05537?style=flat&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+ </div><br>
+</div>
+
+## ✍Tools
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+ </div><br>
+</div>
