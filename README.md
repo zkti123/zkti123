@@ -21,8 +21,8 @@
  </div><br>
 </div>
 
-## 노션을 클릭하면 포트폴리오가 나와요😊
-## ✍Tools
+ 
+## ✍Tools 노션을 클릭하면 포트폴리오가 나와요😊
 <div style="display:flex; flex-direction:row;">
      <a href="https://encouraging-bearberry-463.notion.site/3a65647208724c9cbac1fed342f13053?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
    
