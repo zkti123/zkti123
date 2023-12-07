@@ -17,7 +17,7 @@
     <br>
    <img src="https://img.shields.io/badge/JPA-003396?style=flat&logo=Java&logoColor=white">
    <img src="https://img.shields.io/badge/MyBatis-F05537?style=flat&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=maven&logoColor=white">
  </div><br>
 </div>
 
